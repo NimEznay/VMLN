@@ -1,2 +1,2 @@
-# VMLN
-This is the code of the paper "Mixture Neural Variational Markov Logic under Conjunctive Normal Form".
+## VMLN
+This is the code for the paper "Mixture Neural Variational Markov Logic under Conjunctive Normal Form".
